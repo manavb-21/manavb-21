@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manav-bhatia-29497a30a"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>&nbsp;
+<a href="https://linkedin.com/in/manavbhatia21"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>&nbsp;
 <a href="https://instagram.com/i_manav_21"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="30"/></a>&nbsp;
 <a href="https://www.codechef.com/users/manav_codes21"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="30"/></a>&nbsp;
 <a href="https://codeforces.com/profile/manavb-21"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" width="30"/></a>&nbsp;
